@@ -1,0 +1,15 @@
+Rewrite the following outreach message.
+
+Message:
+{message}
+
+Requested style:
+{style}
+
+Rules:
+- Preserve factual accuracy.
+- Do not add invented information.
+- Keep the core purpose unchanged.
+- Make the message sound natural.
+
+Return only the rewritten message text.

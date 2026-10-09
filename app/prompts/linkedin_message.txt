@@ -1,0 +1,30 @@
+Write a short LinkedIn outreach message.
+
+Recipient:
+{contact_name}
+{contact_role}
+
+Company:
+{company_name}
+
+Verified information:
+{company_information}
+
+Student:
+{student_name}
+{student_college}
+{student_role}
+
+Goal:
+Start a professional conversation about internships, live projects,
+mentorship, workshops, company visits, industry collaboration, or
+campus hiring.
+
+Requirements:
+- Human and concise (under 90 words, LinkedIn-friendly).
+- Personalized.
+- No exaggerated claims.
+- No invented information.
+- Suitable for LinkedIn.
+
+Return only the message text.

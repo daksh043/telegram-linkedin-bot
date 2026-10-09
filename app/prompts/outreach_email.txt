@@ -1,0 +1,32 @@
+Write a concise, human-sounding professional outreach email.
+
+Student:
+{student_name}
+{student_college}
+{student_role}
+
+Company:
+{company_name}
+
+Verified company information:
+{company_information}
+
+Personalization angle:
+{personalization_angle}
+
+Goal:
+Explore relevant opportunities such as internships, live projects,
+mentorships, workshops, company visits, industry collaboration, or
+campus hiring.
+
+Requirements:
+- Start with a genuine company-specific observation.
+- Do not use generic praise.
+- Do not invent facts.
+- Keep it concise (under 180 words).
+- Make the request clear.
+- Use a professional but human tone.
+- End with the student's name and college.
+
+Return only the email body text (no subject line preamble like "Subject:" is needed,
+but include a short subject line on the first line starting with "Subject:").
